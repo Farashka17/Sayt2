@@ -1,0 +1,178 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image:linear-gradient(to left,rgba(47, 23, 15, 0.65),rgba(47, 23, 15, 0.65)), url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/bg.jpg);
+    background-size: cover;
+    width: 100%;
+    background-attachment: fixed;
+}
+.coffee{
+	width: 100%;
+	height: 40vh;
+    
+}
+.coffee b{
+	display: block;
+	text-align: center;
+	padding-top: 80px;
+	color:#e5c12f;
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+    position: relative; 
+}
+.coffee p{
+	display:block;
+	text-align: center;
+	padding-top: 45px;
+	color:#ffe7a9;
+	font-size: 90px;
+	font-family: 'Open Sans', sans-serif;
+}
+.menu {
+	width: 100%;
+	background-color: rgba(47, 23, 15, 0.9);
+    text-align: center;
+}
+.menu ul li{
+	display: inline-block;	
+	font-family: 'Roboto', sans-serif;
+	color: white;
+}
+.menu ul li a:hover{
+	color: #926131;
+}
+.menu ul{
+    margin-top: 70px;
+}
+.menu li{
+	margin: 30px;
+}
+.menu li a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+.ucdiv{
+	width: 100%;
+	height: 115vh;
+	
+}
+.qiz{
+	width: 970px;
+	height: 650px;
+	background-image: url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/intro.jpg);
+	background-size: cover;
+    position: relative;
+    top: 100px;
+    left: 450px;
+    border-radius: 1%;
+}
+.yazi{
+	width: 570px;
+	height: 330px;
+	background-color: #f6e1c5;
+	position: relative;
+    bottom: 500px;
+    left: 170px;
+    border-radius: 1%;
+}
+.yazi h2{
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+	text-align: center;
+	padding-top: 45px;
+}
+.yazi p{
+	font-size: 50px;
+	font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-family: 'Noto Sans Mono', monospace;
+}
+.yazi pre{
+	font-size: 18px;
+	line-height: 30px;
+	text-align: center;
+	margin-top: 25px;
+	font-family: 'Abyssinica SIL', serif;
+}
+.button{
+	width: 180px;
+	height: 40px;
+	background-color: #d89c34;
+    border-radius: 5%;
+	border: none;
+	cursor: pointer;
+	color: black;
+	text-align:center;
+	padding-top: 21px;
+	font-size: 19px;
+	position: relative;
+	bottom: 530px;
+	left: 360px;
+}
+.button:hover{
+    background-color: #e3b86d;
+}
+.sari{
+	width: 100%;
+	height: 60vh;
+	background-color: #d89c34 ;
+	opacity: 90%;
+}
+.cercive{
+	width: 880px;
+	height: 35vh;
+	border: 5px solid #e8c68a;
+	border-radius: 1%;
+	position: relative;
+	top: 80px;
+	left: 350px;
+}
+.metn{
+	width: 870px;
+	height: 34vh;
+	background-color: #f3e2c3;
+	border-radius: 1%;
+	position: relative;
+	top: 0.5vh;
+	left: 5px;
+}
+.metn h2{
+	text-align: center;
+	padding-top: 45px;
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+}
+.metn h1{
+	text-align: center;
+	padding-top: 5px;
+	font-size: 50px;
+	font-family: 'Roboto', sans-serif;
+	}
+	.metn p{
+		font-size: 18px;
+		text-align:center ;
+		font-family: 'Abyssinica SIL', serif;
+		margin: 15px;
+	}
+.son{
+	width: 100%;
+	height: 30vh;
+}
+.brown{
+	width: 100%;
+	height: 15vh;
+	background-color: rgba(47, 23, 15, 0.9);
+    position: relative;
+    top: 15vh;
+    text-align: center;
+    padding-top: 7vh;
+    color: #f3e2c3;
+    font-size: 17px;
+    box-sizing: border-box;
+}
+
